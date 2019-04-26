@@ -1,3 +1,5 @@
+# Typescript template for Svelte v3
+
 ---
 
 # svelte app
