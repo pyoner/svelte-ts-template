@@ -1,3 +1,6 @@
+# Attention!
+The project moved to this monorepo https://github.com/pyoner/svelte-typescript
+
 # Typescript template for Svelte v3
 
 ---
