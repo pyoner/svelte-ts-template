@@ -4,7 +4,11 @@ import commonjs from "rollup-plugin-commonjs";
 import { terser } from "rollup-plugin-terser";
 import typescript from "rollup-plugin-typescript2";
 
-import { preprocess, createEnv, readConfigFile } from "svelte-ts-preprocess";
+import {
+  preprocess,
+  createEnv,
+  readConfigFile
+} from "@pyoner/svelte-ts-preprocess";
 
 const production = !process.env.ROLLUP_WATCH;
 
